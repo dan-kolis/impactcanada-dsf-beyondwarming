@@ -1,0 +1,165 @@
+==========================================================================================
+Beyond Warming - Improved Weightless food service by repurposing temperatures and sauces
+==========================================================================================
+
+A process and prototyped device is proposed to handle pre-prepared and novel cuisine offerings 
+that use electronics to manage temperature and enhance visual presentation of food in weightless, resource minimized environments like earth orbit.
+
+The innovation proposed involves a single device combining some aspects of 
+a **wok, refrigerator, oven and table setting** into one single user device. 
+
+But the specific notion of making 
+food 'components' by layer, using an extrapolated concept of sauces is the central issue.
+
+The belief system here is that novel apparatus and preparation ( before lift ), can 
+make foods which are browned, toasted, or baked quite routine. This involves moderate
+changes to the packaging and the existence of the combining apparatus.
+
+
+
+-----------------------------------------------------------------------------------
+How food is combined, matters
+-----------------------------------------------------------------------------------
+
+Visualizing even simple foods as a series of components and ignoring preparation 
+is how an obsession with nutrition alone can made make institutional food depressing.
+
+Clearly a grilled cheese sandwich can be subjectively, be much more then just 
+its 'parts'.
+
+.. image:: breadslice.png
+  :width: 70
+  :alt: bread
+
+.. image:: cheeseslice.png
+  :width: 70
+  :alt: cheese
+
+.. image:: onegarlic.png
+  :width: 70
+  :alt: garlic
+
+.. image:: parsley.png
+  :width: 70
+  :alt: parsley
+ 
+  
+But then if ... **Well combined:**  
+
+
+.. figure:: garlicbread.png
+   :scale: 59 %
+   :alt: Garlic bread
+   :align: center
+
+   Garlic bread
+                        
+                                               
+---------------------------------------------------------------------------------------
+An improved process for food preparation is the point, not simply a fancy hotplate
+---------------------------------------------------------------------------------------
+
+Food prepared for using this apparatus in flight has packaging and configuration 
+modalities to allow the mix and match of sauces to base meals while retaining layering
+familiar in prepared cuisines. The concept of a 'sauce' is extended somewhat to
+include layers of additional edible products; In the context of extending the types
+of foods and maximizing there appeal possible, the so called sauces are 
+**much more important**
+then there role in ordinary food preparation. 
+
+Opened packages built with stabilized foods, ( using inert gases ) can be subsequently 
+chilled to extend there palatable status until enjoyed. Sort term, this is a minor usage
+motif, yet it has subtle utility for food created and combined where planetary support
+is much less available.
+
+
+This is '**Beyond warming**'; The viscosity of sauces and their offered surface tension is 
+utilized to enable previously hard to provision foods like eggs, pancakes and waffles. 
+
+Well constructed sauces of all sorts supplement water infused vacuum packet portions 
+in weightlessness. 
+
+Heat can be both
+added and removed using a semiconductor platen. The range of temperature is bounded
+between -15 C and 200 C and the portion size is generally a single adult serving.
+
+
+The sauces are provisioned in prepared packages which disappear into the servings, 
+they are constructed of casien, an edible milk by-product. 
+
+A longer term agenda is built into a serving controlling apparatus along these lines 
+quite naturally. Locally grown or synthesized products may benefit from reduced 
+temperature. By possibly interfacing to a space heat sinked manifold, energy 
+expenditures can be made trivial.   All sorts of food prep tricks can be folded 
+into the idea. The goal is a pan like closed device of considerable flexibility. 
+But the secret, like the old saying, is in the sauce...
+
+
+----------------------------
+Goals
+----------------------------
+
+Clearly, earth orbit habitation is reasonably well understood and a few
+milestones are easy to define. When involving people, food and other 
+consumables are major line items, to say the lest, of the programme's
+success or failure.
+
+
+************************************************************
+Short term - Better packaged food experiences on I.S.S.
+************************************************************
+
+A better food experience in earth orbit for foods prepared on earth sent and 
+served in moderate time frames. This innovation may visualize application over
+a few ones of years from the present moment.
+
+
+****************************************************************************
+Medium term - Working with thermal management for lunar and beyond safaris
+****************************************************************************
+
+Some mix of food sourcing from foods grown / built in space may benefit from
+'taking food seriously', not just some liability required to maintain human 
+life... and utilize space as a heatsink to work with cooling as opposed to 
+extreme packaging. Surprisingly, 
+`Peltier cooling <https://en.wikipedia.org/wiki/Thermoelectric_cooling>`_. 
+matters to reach thermal
+equilibria between food and the very plentiful space, of `space' outside. This is
+far beyond a simple operational investigation of a device and food packaging motif;
+However one purpose of this blue sky project expenditure is get ready for what's possible
+`next', and a manifold through the hull of a spacecraft for food preservation is fairly
+obvious.
+
+
+
+*********************************************************************************
+Long term - Food production, rendering and presentation in variable environments
+*********************************************************************************
+Aesthetic, Nutrition, and Planning of food sourcing may benefit from more
+technology support that involves using preferences and single serving motifs
+to inform off planet food production.
+
+
+For instance, supporting planning for plant and fish grown in situ may benefit
+from a continuous, casual 'A.I.' approach towards understanding what each resident
+and/or traveler will probably demand or require. Serving systems that mix and match
+urges with out wasting materials are the goals, not 'paperwork' and pre-planned menus.
+
+Similarly, some off planet living may strongly suggest fortified foods. The 
+proposal here most food servings combine layers of material, that is, an extrapolated
+role for 'sauces', is a fine way to sneak in specific nutrients without making eating
+and choosing feel repressive !
+
+
+
+---------------------------------------
+Version this index file diff mark
+---------------------------------------
+
+Done by Dan Kolis 30 Jul 2021 13:07 E 
+
+
+Document end 
+
+
+
